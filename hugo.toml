@@ -1,0 +1,33 @@
+baseURL = 'www.gyshsedu.com'
+languageCode = 'zh-cn'
+title = '灌云野鸡高级中学'
+theme = 'mainroad'
+
+[Params]
+  IsMultilingual = true
+  description = "苏ICP备05008964号"
+  opengraph = true
+  copyright = "江苏省 连云港灌县高级中学"
+  readmore = false
+  pager = false
+  post_meta = ["categories"]
+
+[Params.style.vars]
+  highlightColor = "#e22d30"
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  subtitle = "忽有狂徒夜磨刀，帝星飘摇荧惑高。"
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "left"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["sidemenu"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+  footer_credits = ''

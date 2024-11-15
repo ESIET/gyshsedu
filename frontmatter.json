@@ -1,0 +1,33 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "sideBar",
+          "name": "sideBar",
+          "type": "string"
+        },
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "lead",
+          "name": "lead",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.git.enabled": false
+}
