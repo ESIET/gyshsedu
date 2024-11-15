@@ -1,4 +1,4 @@
-baseURL = 'www.gyshsedu.com'
+baseURL = 'https://gyshsedu.netlify.app/'
 languageCode = 'zh-cn'
 title = '灌云野鸡高级中学'
 theme = 'mainroad'
