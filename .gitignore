@@ -1,3 +1,7 @@
-public
+# editor
 .vscode
 .frontmatter
+
+# output
+public
+resources

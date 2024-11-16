@@ -28,6 +28,7 @@
         "kaellarkin.hugo-shortcode-syntax",
         "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker",
+        "tamasfe.even-better-toml"
       ]
     }
   },

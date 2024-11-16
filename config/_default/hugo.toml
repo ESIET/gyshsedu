@@ -1,0 +1,23 @@
+baseURL = 'https://gyshsedu.com/'
+languageCode = "en-us"
+defaultContentLanguage = "cn"
+# title = '灌云高级中学'
+title = 'Guanyun Senior High School'
+theme = 'universal'
+enableGitInfo = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+[languages]
+[languages.en]
+languageCode = 'en-us'
+languageName = 'English - United States'
+weight = 1
+[languages.cn]
+languageCode = 'zh-cn'
+languageName = '简体中文'
+weight = 2
+[languages.tw]
+languageCode = 'zh-tw'
+languageName = '正體中文'
+weight = 3

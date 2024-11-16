@@ -1,0 +1,5 @@
+baseURL = 'https://gyshsedu.netlify.app/'
+title = 'Guanyun Yeji Senior High School'
+
+# FOR DEV ONLY
+ignoreCache = true
