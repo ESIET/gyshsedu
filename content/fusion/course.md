@@ -1,7 +1,7 @@
 +++
 date = '2024-11-16T08:42:04Z'
 title = '课程体系'
-banner = ''
+# banner = ''
 tags = []
 categories = []
 +++

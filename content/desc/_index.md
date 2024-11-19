@@ -1,7 +1,7 @@
 +++
 date = '2024-11-16T08:42:04Z'
 title = '学校概况'
-banner = ''
+# banner = ''
 tags = []
 categories = []
 +++

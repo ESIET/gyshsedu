@@ -1,13 +1,10 @@
----
-title: 关于
-date: 2022-01-25T14:00:00.000Z
-authorbox: false
-sidebar: true
-menu:
-  main:
-    name: 关于我们
-    weight: 100
----
++++
+date = '2024-11-16T08:42:04Z'
+title = 'About'
+# banner = '/images/gate/gate_01.jpg'
+tags = []
+categories = []
++++
 
 基本信息
 

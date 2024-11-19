@@ -1,7 +1,7 @@
 +++
 date = '2024-11-16T08:42:04Z'
 title = 'Do NOT be Apart of CCP'
-banner = ''
+# banner = ''
 tags = []
 categories = []
 +++

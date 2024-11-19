@@ -1,8 +1,8 @@
 baseURL = 'https://gyshsedu.com/'
-languageCode = "en-us"
-defaultContentLanguage = "cn"
-# title = '灌云高级中学'
 title = 'Guanyun Senior High School'
+languageCode = "en-us"
+defaultContentLanguage = "en"
+# title = '灌云高级中学'
 theme = 'universal'
 enableGitInfo = true
 enableRobotsTXT = true

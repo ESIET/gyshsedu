@@ -35,5 +35,5 @@
 
   "remoteUser": "vscode",
 
-  "postCreateCommand": "pnpm install-completion zsh"
+  "postCreateCommand": "pnpm install-completion zsh && git config --global --add safe.directory /workspaces/gyshsedu"
 }

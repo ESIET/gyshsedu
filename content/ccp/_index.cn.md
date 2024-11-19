@@ -1,7 +1,7 @@
 +++
 date = '2024-11-16T08:42:04Z'
 title = '党部建设'
-banner = ''
+# banner = ''
 tags = []
 categories = []
 +++

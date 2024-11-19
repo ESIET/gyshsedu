@@ -1,7 +1,7 @@
 +++
 date = '2024-11-16T08:42:04Z'
 title = '校园文化'
-banner = '/images/gate/gate_01.jpg'
+# banner = '/images/gate/gate_01.jpg'
 tags = []
 categories = []
 +++
